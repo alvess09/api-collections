@@ -1,4 +1,4 @@
-package alves.ariel.`api-collections`
+package alves.ariel.apicollections
 
 fun main() {
     val salarios = doubleArrayOf(1000.0, 2000.0, 4000.0)

@@ -1,4 +1,4 @@
-package alves.ariel.`api-collections`
+package alves.ariel.apicollections
 
 fun main() {
     //podemos usar o array de Inteiro definindo um tamanho específico dessa  forma é

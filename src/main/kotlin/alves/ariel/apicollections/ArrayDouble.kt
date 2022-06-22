@@ -1,4 +1,4 @@
-package alves.ariel.`api-collections`
+package alves.ariel.apicollections
 
 fun main() {
     val values = DoubleArray(2)
