@@ -22,6 +22,6 @@ fun main() {
     funcionarios.forEach { println(it) }
 
 
-  
+
 
 }
